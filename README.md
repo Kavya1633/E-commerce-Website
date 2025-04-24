@@ -6,10 +6,17 @@ A fully functional backend for an e-commerce platform built with Spring Boot, im
 🚀 Features
 
 ✅ User Registration & Authentication (JWT-based)
+
 🛍️ Product Management (CRUD for Admins)
+
 🛒 Cart Operations
+
 📦 Order Placement
+
 🧾 Payment Gateway Integration (Coming soon)
+
 📂 REST APIs following standard conventions
+
 🔐 Secure endpoints with role-based access control
+
 🧪 Unit & Integration Testing
