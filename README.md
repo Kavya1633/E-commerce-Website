@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Backend API (Spring Boot)
+# 🛒 E-Commerce Backend (Spring Boot)
 
 A fully functional backend for an e-commerce platform built with Spring Boot, implementing key features like user management, product catalog, cart system, and order processing. Designed with scalability, modularity, and clean RESTful practices in mind.
 
