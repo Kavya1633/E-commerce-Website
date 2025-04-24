@@ -1,9 +1,9 @@
-🛒 #E-Commerce Backend API (Spring Boot)
+# 🛒 E-Commerce Backend API (Spring Boot)
 
 A fully functional backend for an e-commerce platform built with Spring Boot, implementing key features like user management, product catalog, cart system, and order processing. Designed with scalability, modularity, and clean RESTful practices in mind.
 
 
-🚀 #Features
+# Features
 
 ✅ User Registration & Authentication (JWT-based)
 
@@ -25,10 +25,28 @@ A fully functional backend for an e-commerce platform built with Spring Boot, im
 # Project Structure
 
 src/
+
 ├── controller/
+
 ├── service/
+
 ├── repository/
+
 ├── model/
+
 ├── config/
+
 └── dto/
+
+
+# ⚙️ Getting Started
+
+1. Clone the repository
+   
+   https://github.com/Kavya1633/E-commerce-Website.git
+
+2. run the application
+
+   mvn spring-boot:run
+
 
